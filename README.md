@@ -1,1 +1,1 @@
-# Previsao vendas de uma farmaceutica
+# Previsao vendas de uma farmacêuticas
