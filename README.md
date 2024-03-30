@@ -15,9 +15,9 @@ Os dados de vendas são amostrados para os períodos horários, diários, semana
 
 
 Nosso objetivo é avaliar a venda de diferentes medicamentos, de modo a conseguir capturar alguns insigths importantes como:
-Quais classes de medicamentos apresentaram aumento ou diminuição de demanda entre 2014 e 2019?
-Quais os meses com mais e menos vendas?
-Quais as classes de medicamentos mais e menos vendidos por mês?¶
-Existe correlação entre a venda mensal de determinadas classes de medicamentos?
-Relizar previsão de vendas dos medicamenos
-Realizar prescrição da analise
+1) Quais classes de medicamentos apresentaram aumento ou diminuição de demanda entre 2014 e 2019?
+2) Quais os meses com mais e menos vendas?
+3) Quais as classes de medicamentos mais e menos vendidos por mês?¶
+4) Existe correlação entre a venda mensal de determinadas classes de medicamentos?
+5) Relizar previsão de vendas dos medicamenos
+6) Realizar prescrição da analise
