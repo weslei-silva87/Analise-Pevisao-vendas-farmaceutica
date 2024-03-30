@@ -1,1 +1,1 @@
-# Pevisao vendas farmaceutica
+# Previsao vendas de uma farmaceutica
