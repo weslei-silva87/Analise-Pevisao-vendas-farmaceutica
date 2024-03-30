@@ -14,6 +14,7 @@ R06 - Antihistamínicos para uso sistêmico
 Os dados de vendas são amostrados para os períodos horários, diários, semanais e mensais. Os dados já estão pré-processados, onde o processamento incluiu detecção e tratamento de outliers e imputação de dados ausentes.
 
 
+
 Nosso objetivo é avaliar a venda de diferentes medicamentos, de modo a conseguir capturar alguns insigths importantes como:                                         
 1) Quais classes de medicamentos apresentaram aumento ou diminuição de demanda entre 2014 e 2019?
 2) Quais os meses com mais e menos vendas?
