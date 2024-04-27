@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Análise e Previsão Vendas de uma Farmacêuticas</h1>
-  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/e52ed809-2908-413d-95ea-3cd67b1237f4" alt="Design sem nome (4)" width="900">
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/e52ed809-2908-413d-95ea-3cd67b1237f4" alt="Design sem nome (4)" width="600">
 </div>
 
 Neste projeto de uma indústria farmacêutica, a compreensão das tendências de mercado e dos padrões de consumo é essencial para garantir a oferta adequada de medicamentos e atender às necessidades da população. Neste estudo, exploramos um conjunto de dados abrangente de seis anos de vendas de medicamentos. Através de uma análise detalhada, buscamos identificar padrões de demanda, sazonalidades e correlações entre diferentes classes de medicamentos. Além disso, empregamos técnicas de previsão para estimar as vendas futuras, fornecendo insights valiosos para gestores da empresa.
