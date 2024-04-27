@@ -1,4 +1,9 @@
-# Análise e Previsão vendas de uma farmacêuticas 
+
+<div align="center">
+  <h1>Análise e Previsão Vendas de uma Farmacêuticas</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/e52ed809-2908-413d-95ea-3cd67b1237f4" alt="Design sem nome (4)" width="600">
+</div>
+
 Neste projeto de uma indústria farmacêutica, a compreensão das tendências de mercado e dos padrões de consumo é essencial para garantir a oferta adequada de medicamentos e atender às necessidades da população. Neste estudo, exploramos um conjunto de dados abrangente de seis anos de vendas de medicamentos. Através de uma análise detalhada, buscamos identificar padrões de demanda, sazonalidades e correlações entre diferentes classes de medicamentos. Além disso, empregamos técnicas de previsão para estimar as vendas futuras, fornecendo insights valiosos para gestores da empresa.
 
 Sobre o conjunto de dados
@@ -16,9 +21,28 @@ Os dados de vendas são amostrados para os períodos horários, diários, semana
 
 # Nosso objetivo é avaliar a venda de diferentes medicamentos, de modo a conseguir capturar alguns insigths importantes como:                                         
 
-# 1 Variação na Demanda de Medicamentos:
+<div align="center">
+  <h1>Variação na Demanda de Medicamentos</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/1d7820af-1429-4208-9f46-39b6e708abf6" alt="Indicadores 1 Todos Medicamentos">
+</div>
 
 Durante o período de 2014 a 2019, observamos flutuações significativas na demanda por diferentes classes de medicamentos. Entre os produtos anti-inflamatórios e antirreumáticos (M01AB e M01AE), por exemplo, notamos um aumento consistente na procura, possivelmente devido ao envelhecimento da população e ao aumento das condições relacionadas à inflamação e doenças reumáticas. Por outro lado, classes como os medicamentos psicolepticos (N05B e N05C) apresentaram variações mais sutis, sugerindo uma demanda relativamente estável ao longo do período analisado.
+
+<div align="center">
+  <h1>medicamentos que apresentaram aumento ou diminuição de demanda entre 2014 e 2019</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/7f1afe61-0c7d-4c75-ba60-058d3e50905b" alt="Demanda 01">
+</div>
+
+
+Ao analisado, as mudanças notáveis nas vendas de diversas classes de medicamentos. Em particular, destacamos o significativo crescimento nas vendas de medicamentos para doenças obstrutivas das vias aéreas (R03), com um aumento impressionante de 49,71%. Esse aumento substancial pode refletir uma maior incidência de condições respiratórias, bem como uma conscientização crescente sobre a importância do tratamento adequado dessas doenças.
+
+Além disso, as vendas de antihistamínicos para uso sistêmico (R06) também apresentaram um crescimento significativo, com um aumento de 79,80% ao longo do período analisado. Esse aumento pode estar relacionado a uma maior demanda por tratamentos para alergias e condições respiratórias relacionadas.
+
+Por outro lado, observamos uma queda acentuada nas vendas de medicamentos psicolepticos, como os medicamentos hipnóticos e sedativos (N05C), que diminuíram em 64,31%. Essa redução pode refletir uma mudança nas práticas de prescrição, uma maior conscientização sobre os riscos associados ao uso prolongado desses medicamentos e uma busca crescente por abordagens não farmacológicas para o tratamento de distúrbios do sono e ansiedade.
+
+Além disso, as vendas de medicamentos ansiolíticos (N05B) e analgésicos e antipiréticos (N02BA) também diminuíram, com quedas de 25,96% e 24,38%, respectivamente. Essas reduções podem estar relacionadas a uma maior conscientização sobre o uso racional de medicamentos, políticas de prescrição mais restritas e uma mudança nas preferências dos pacientes em relação aos tratamentos.
+
+Essas mudanças nas vendas de medicamentos refletem as tendências em evolução no setor farmacêutico e destacam a importância de monitorar de perto o mercado para garantir uma oferta adequada de medicamentos e promover o uso seguro e eficaz dos mesmos.
 
 # 2 Padrões Temporais de Vendas:
 
