@@ -29,12 +29,11 @@ Os dados de vendas são amostrados para os períodos horários, diários, semana
 Durante o período de 2014 a 2019, observamos flutuações significativas na demanda por diferentes classes de medicamentos. Entre os produtos anti-inflamatórios e antirreumáticos (M01AB e M01AE), por exemplo, notamos um aumento consistente na procura, possivelmente devido ao envelhecimento da população e ao aumento das condições relacionadas à inflamação e doenças reumáticas. Por outro lado, classes como os medicamentos psicolepticos (N05B e N05C) apresentaram variações mais sutis, sugerindo uma demanda relativamente estável ao longo do período analisado.
 
 <div align="center">
-  <h1>medicamentos que apresentaram aumento ou diminuição de demanda entre 2014 e 2019</h1>
+  <h1>Medicamentos que Apresentaram aumento ou Diminuição de Demanda entre 2014 e 2019</h1>
   <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/7f1afe61-0c7d-4c75-ba60-058d3e50905b" alt="Demanda 01">
 </div>
 
-
-Ao analisado, as mudanças notáveis nas vendas de diversas classes de medicamentos. Em particular, destacamos o significativo crescimento nas vendas de medicamentos para doenças obstrutivas das vias aéreas (R03), com um aumento impressionante de 49,71%. Esse aumento substancial pode refletir uma maior incidência de condições respiratórias, bem como uma conscientização crescente sobre a importância do tratamento adequado dessas doenças.
+As mudanças notáveis nas vendas de diversas classes de medicamentos. Em particular, destacamos o significativo crescimento nas vendas de medicamentos para doenças obstrutivas das vias aéreas (R03), com um aumento impressionante de 49,71%. Esse aumento substancial pode refletir uma maior incidência de condições respiratórias, bem como uma conscientização crescente sobre a importância do tratamento adequado dessas doenças.
 
 Além disso, as vendas de antihistamínicos para uso sistêmico (R06) também apresentaram um crescimento significativo, com um aumento de 79,80% ao longo do período analisado. Esse aumento pode estar relacionado a uma maior demanda por tratamentos para alergias e condições respiratórias relacionadas.
 
