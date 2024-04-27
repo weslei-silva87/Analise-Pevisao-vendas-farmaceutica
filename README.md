@@ -43,9 +43,17 @@ Além disso, as vendas de medicamentos ansiolíticos (N05B) e analgésicos e ant
 
 Essas mudanças nas vendas de medicamentos refletem as tendências em evolução no setor farmacêutico e destacam a importância de monitorar de perto o mercado para garantir uma oferta adequada de medicamentos e promover o uso seguro e eficaz dos mesmos.
 
-# 2 Padrões Temporais de Vendas:
 
-Ao analisar os padrões temporais de vendas, identificamos meses específicos que se destacaram pelo volume de vendas. Por exemplo, observamos picos de vendas de medicamentos para doenças obstrutivas das vias aéreas (R03) durante os meses de inverno, refletindo a sazonalidade das doenças respiratórias. Além disso, os meses de verão apresentaram uma demanda reduzida para medicamentos hipnóticos e sedativos (N05C), indicando uma possível diminuição do estresse e da ansiedade durante esse período.
+<div align="center">
+  <h1>Padrões Temporais de Vendas</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/fc4eceba-d1a7-49e8-9621-5eb7dd0ff87a" alt="Vendas ao Longo do Tempo">
+</div>
+
+A sazonalidade influencia significativamente a dinâmica do mercado farmacêutico. Durante o período analisado, observamos claramente quais meses em períodos de maior e menor demanda por medicamentos, fornecendo insights valiosos para gestores.
+
+Os meses de outubro e dezembro destacam-se como períodos de alta demanda, caracterizados por um aumento significativo nas vendas. O mês de outubro, consistentemente ao longo dos anos, registra um pico de vendas, indicando uma sazonalidade relacionada ao aumento de doenças respiratórias e alérgicas durante o período de transição para as estações mais frias. Da mesma forma, dezembro emerge como um mês de destaque, particularmente devido às festas de fim de ano, que podem influenciar o aumento da procura por medicamentos.
+
+Por outro lado, meses como julho e junho surgem como períodos de menor demanda por medicamentos. Julho, frequentemente associado às férias de meio de ano, registra uma diminuição na procura, refletindo possíveis mudanças no comportamento do consumidor durante esse período. Junho também pode apresentar vendas mais baixas, sugerindo variações sazonais ou outros fatores externos que afetam a demanda por medicamentos.
 
 # 3 Classificação de Medicamentos por Volume de Vendas:
 
