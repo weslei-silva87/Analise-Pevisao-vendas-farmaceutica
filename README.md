@@ -55,7 +55,14 @@ Os meses de outubro e dezembro destacam-se como períodos de alta demanda, carac
 
 Por outro lado, meses como julho e junho surgem como períodos de menor demanda por medicamentos. Julho, frequentemente associado às férias de meio de ano, registra uma diminuição na procura, refletindo possíveis mudanças no comportamento do consumidor durante esse período. Junho também pode apresentar vendas mais baixas, sugerindo variações sazonais ou outros fatores externos que afetam a demanda por medicamentos.
 
-# 3 Classificação de Medicamentos por Volume de Vendas:
+
+<div align="center">
+  <h1>Medicamentos Mais Vendidos</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/1454173c-7a64-4e40-9d53-27c94d169df6" alt="Medicamentos Mais Vendidos">
+</div>
+
+
+
 
 Ao classificar as classes de medicamentos por volume de vendas mensais, pudemos identificar tendências interessantes. Por exemplo, os analgésicos e antipiréticos (N02BA e N02BE/B) foram consistentemente classificados entre os mais vendidos em todos os meses analisados, destacando a prevalência de dores e febres como queixas comuns entre a população.
 
