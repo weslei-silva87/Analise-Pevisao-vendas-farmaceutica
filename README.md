@@ -45,7 +45,7 @@ Essas mudanças nas vendas de medicamentos refletem as tendências em evolução
 
 
 <div align="center">
-  <h1>Padrões Temporais de Vendas</h1>
+  <h1>Padrões Temporais de Vendas por Mês</h1>
   <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/fc4eceba-d1a7-49e8-9621-5eb7dd0ff87a" alt="Vendas ao Longo do Tempo">
 </div>
 
@@ -57,14 +57,21 @@ Por outro lado, meses como julho e junho surgem como períodos de menor demanda 
 
 
 <div align="center">
-  <h1>Medicamentos Mais Vendidos</h1>
+  <h1>Medicamentos Mais Vendidos por Mês</h1>
   <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/1454173c-7a64-4e40-9d53-27c94d169df6" alt="Medicamentos Mais Vendidos">
 </div>
 
+É evidente que certas classes se destacam pela frequência de uso, enquanto outras enfrentam desafios em termos de demanda. Tais insights oferecem à diretoria oportunidades valiosas para avaliar estratégias e tomar decisões informadas visando otimizar o desempenho comercial e atender melhor às necessidades dos clientes.
 
+Medicamentos Mais Utilizados:
 
+O medicamento da classe N02BE se destaca como o mais vendido, representando impressionantes 98,57% das vendas totais. Esta alta porcentagem sugere uma demanda robusta por analgésicos e antipiréticos, indicando a importância de manter um suprimento adequado e estratégias de marketing eficazes para promover estes produtos.
 
-Ao classificar as classes de medicamentos por volume de vendas mensais, pudemos identificar tendências interessantes. Por exemplo, os analgésicos e antipiréticos (N02BA e N02BE/B) foram consistentemente classificados entre os mais vendidos em todos os meses analisados, destacando a prevalência de dores e febres como queixas comuns entre a população.
+Por outro lado, o medicamento da classe N05B, apesar de representar apenas 1,43% das vendas totais, ainda possui uma fatia significativa do mercado. Este dado pode indicar uma demanda específica por medicamentos psicolepticos, sugerindo a necessidade de análises mais aprofundadas sobre o perfil dos consumidores e estratégias para expandir a participação no mercado.
+
+Medicamentos Menos Vendidos:
+
+Enquanto isso, as classes de medicamentos N05C, R06 e M01AB enfrentam desafios em termos de demanda, representando apenas 7,14%, 1,43% e 1,43% das vendas totais, respectivamente. Esta baixa participação no mercado pode ser atribuída a uma série de fatores, incluindo mudanças nas práticas de prescrição, conscientização sobre os efeitos colaterais e preferências dos pacientes.
 
 # 4 Correlação entre Vendas de Medicamentos:
 
