@@ -82,7 +82,7 @@ Enquanto isso, as classes de medicamentos N05C, R06 e M01AB enfrentam desafios e
 
 Ao explorar a correlação entre as vendas mensais de diferentes classes de medicamentos, encontramos algumas associações surpreendentes. Por exemplo, observamos uma correlação positiva entre as vendas de produtos anti-inflamatórios e antirreumáticos (M01AB e M01AE) e os medicamentos para doenças obstrutivas das vias aéreas (R03), sugerindo uma possível conexão entre condições inflamatórias e respiratórias.
 
-# 5 Previsão de Vendas:
+# Previsão de Vendas
 Durante a análise dos dados de vendas de medicamentos, foram empregados dois modelos de previsão: regressão linear e árvore de decisão. O objetivo era estimar as vendas futuras com base em dados históricos sobre as classes de medicamentos.
 
 O modelo de regressão linear é uma abordagem estatística que busca estabelecer uma relação linear entre os recursos (classes de medicamentos) e o alvo (vendas totais). Este modelo foi treinado utilizando os dados históricos de vendas e, em seguida, aplicado para fazer previsões sobre vendas futuras. Os resultados revelaram um coeficiente de determinação 
@@ -111,19 +111,20 @@ R
 
 Portanto, com base nos resultados obtidos, podemos concluir que o modelo de regressão linear apresentou um desempenho superior em relação ao modelo de árvore de decisão na tarefa de previsão de vendas de medicamentos. Esta conclusão sugere que, para este conjunto de dados específico, a relação linear entre as classes de medicamentos e as vendas totais é uma boa aproximação. No entanto, é importante ressaltar que a escolha do modelo mais adequado pode variar dependendo do contexto específico e dos objetivos da análise.
 
+<div align="center">
+  <h1>Previsão de Investimento Medicamento</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/790024d7-4a71-46d1-94fb-036a39fc5dda" alt="Previsão de Investimento Medicamento">
+</div>
+
+Este modelo foi concebido com o objetivo de ajudar investidores, gestores a tomar decisões informadas e estratégicas sobre alocação de recursos em diferentes classes de medicamentos. Ao integrar dados históricos de vendas, sazonalidades de mercado e tendências de consumo, o modelo é capaz de estimar o impacto de investimentos específicos em cada classe de medicamento e prever o potencial de retorno sobre o investimento.
+
+Uma das principais vantagens do nosso modelo é sua capacidade de fornecer previsões personalizadas e adaptadas às necessidades individuais de cada medicamento. Ao considerar não apenas o potencial de retorno financeiro, mas também fatores como riscos associados, tendências do mercado e impacto na organização, o modelo permite uma análise completa e equilibrada das opções de investimento disponíveis.
+
+Em última análise, o modelo que desenvolvemos representa uma ferramenta poderosa para orientar decisões de investimento no setor farmacêutico. Ao fornecer previsões precisas e personalizadas para cada classe de medicamento, nosso modelo capacita os investidores a identificar oportunidades de crescimento. 
 
 
-
-
-
-# 6 Prescrição da Análise:
-
-Com base nos resultados obtidos, recomendamos uma abordagem holística para o gerenciamento de estoques e estratégias de marketing. Isso inclui a otimização da oferta de produtos mais demandados, a identificação de oportunidades de diversificação e o desenvolvimento de campanhas direcionadas para atender às necessidades específicas dos consumidores em diferentes períodos e regiões. 
-
-# Conclusão
-Este portfólio representa uma análise abrangente e detalhada das vendas de medicamentos ao longo de seis anos, fornecendo informações valiosas para stakeholders do setor farmacêutico. As conclusões e recomendações apresentadas têm o potencial de direcionar estratégias e decisões, contribuindo para o crescimento e sucesso das organizações neste mercado dinâmico e competitivo.
-
-
-
-
+<div align="center">
+  <h1>Previsão de Faturamento</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/e9dab3c5-6664-4cfb-a3a9-c183ca66d0ba" alt="Previsão de Faturamento">
+</div>
 
