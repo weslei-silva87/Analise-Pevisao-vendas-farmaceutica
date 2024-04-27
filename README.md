@@ -73,18 +73,48 @@ Medicamentos Menos Vendidos:
 
 Enquanto isso, as classes de medicamentos N05C, R06 e M01AB enfrentam desafios em termos de demanda, representando apenas 7,14%, 1,43% e 1,43% das vendas totais, respectivamente. Esta baixa participação no mercado pode ser atribuída a uma série de fatores, incluindo mudanças nas práticas de prescrição, conscientização sobre os efeitos colaterais e preferências dos pacientes.
 
-# 4 Correlação entre Vendas de Medicamentos:
+
 <div align="center">
-  <h1>Correlação entre Vendas entre Produtos</h1>
-  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/430ee018-4b90-4285-ad9b-822c89dfadcb" alt="Correlação entre Vendas entre Produtos">
+  <h1>Correlação entre Vendas</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/789cf6e8-91fd-46e6-9aea-25584ccf3077" alt="Correlação entre Vendas"width="500">
 </div>
 
 
 Ao explorar a correlação entre as vendas mensais de diferentes classes de medicamentos, encontramos algumas associações surpreendentes. Por exemplo, observamos uma correlação positiva entre as vendas de produtos anti-inflamatórios e antirreumáticos (M01AB e M01AE) e os medicamentos para doenças obstrutivas das vias aéreas (R03), sugerindo uma possível conexão entre condições inflamatórias e respiratórias.
 
 # 5 Previsão de Vendas:
+Durante a análise dos dados de vendas de medicamentos, foram empregados dois modelos de previsão: regressão linear e árvore de decisão. O objetivo era estimar as vendas futuras com base em dados históricos sobre as classes de medicamentos.
 
-Utilizando técnicas de previsão, fomos capazes de estimar as vendas futuras de medicamentos com base em padrões históricos e tendências identificadas. Essas previsões fornecem informações cruciais para o planejamento estratégico de estoques, permitindo que as empresas se preparem adequadamente para atender à demanda dos consumidores de forma eficiente.
+O modelo de regressão linear é uma abordagem estatística que busca estabelecer uma relação linear entre os recursos (classes de medicamentos) e o alvo (vendas totais). Este modelo foi treinado utilizando os dados históricos de vendas e, em seguida, aplicado para fazer previsões sobre vendas futuras. Os resultados revelaram um coeficiente de determinação 
+𝑅
+2
+R 
+2
+  extremamente alto, próximo de 1, indicando um 
+𝑅
+2
+R 
+2
+  de 0.9999510885227708. Isso sugere que o modelo de regressão linear se ajustou muito bem aos dados e é capaz de fazer previsões precisas sobre as vendas de medicamentos.
+
+Por outro lado, o modelo de árvore de decisão é uma técnica de aprendizado de máquina que segmenta os dados em subconjuntos menores com base em uma série de regras de decisão. Este modelo também foi treinado com os mesmos dados históricos e utilizado para fazer previsões sobre as vendas futuras. Os resultados indicaram um coeficiente de determinação 
+𝑅
+2
+R 
+2
+  considerável, porém inferior ao obtido pelo modelo de regressão linear, com um 
+𝑅
+2
+R 
+2
+  de 0.8475777417444214. Isso sugere que o modelo de árvore de decisão pode não ter capturado tão bem a complexidade dos dados como o modelo linear.
+
+Portanto, com base nos resultados obtidos, podemos concluir que o modelo de regressão linear apresentou um desempenho superior em relação ao modelo de árvore de decisão na tarefa de previsão de vendas de medicamentos. Esta conclusão sugere que, para este conjunto de dados específico, a relação linear entre as classes de medicamentos e as vendas totais é uma boa aproximação. No entanto, é importante ressaltar que a escolha do modelo mais adequado pode variar dependendo do contexto específico e dos objetivos da análise.
+
+
+
+
+
 
 # 6 Prescrição da Análise:
 
