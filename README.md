@@ -1,4 +1,5 @@
 # Análise e Previsão vendas de uma farmacêuticas 
+Neste projeto de uma indústria farmacêutica, a compreensão das tendências de mercado e dos padrões de consumo é essencial para garantir a oferta adequada de medicamentos e atender às necessidades da população. Neste estudo, exploramos um conjunto de dados abrangente de seis anos de vendas de medicamentos. Através de uma análise detalhada, buscamos identificar padrões de demanda, sazonalidades e correlações entre diferentes classes de medicamentos. Além disso, empregamos técnicas de previsão para estimar as vendas futuras, fornecendo insights valiosos para gestores da empresa.
 
 Sobre o conjunto de dados
 O conjunto de dados é construído a partir do conjunto de dados inicial, composto por dados transacionais coletados ao longo de 6 anos (período de 2014 a 2019), indicando data e hora da venda, nome da marca do medicamento farmacêutico e quantidade vendida, exportados do sistema de ponto de venda na farmácia individual. Um grupo selecionado de medicamentos do conjunto de dados (57 medicamentos) é classificado nas seguintes categorias do Sistema de Classificação Anatômica Terapêutica Química (ATC):
@@ -13,9 +14,7 @@ R03 - Medicamentos para doenças obstrutivas das vias aéreas
 R06 - Antihistamínicos para uso sistêmico
 Os dados de vendas são amostrados para os períodos horários, diários, semanais e mensais. Os dados já estão pré-processados, onde o processamento incluiu detecção e tratamento de outliers e imputação de dados ausentes.
 
-
-
-Nosso objetivo é avaliar a venda de diferentes medicamentos, de modo a conseguir capturar alguns insigths importantes como:                                         
+# Nosso objetivo é avaliar a venda de diferentes medicamentos, de modo a conseguir capturar alguns insigths importantes como:                                         
 1) Quais classes de medicamentos apresentaram aumento ou diminuição de demanda entre 2014 e 2019?
 2) Quais os meses com mais e menos vendas?
 3) Quais as classes de medicamentos mais e menos vendidos por mês?¶
