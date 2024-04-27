@@ -74,6 +74,10 @@ Medicamentos Menos Vendidos:
 Enquanto isso, as classes de medicamentos N05C, R06 e M01AB enfrentam desafios em termos de demanda, representando apenas 7,14%, 1,43% e 1,43% das vendas totais, respectivamente. Esta baixa participação no mercado pode ser atribuída a uma série de fatores, incluindo mudanças nas práticas de prescrição, conscientização sobre os efeitos colaterais e preferências dos pacientes.
 
 # 4 Correlação entre Vendas de Medicamentos:
+<div align="center">
+  <h1>Correlação entre Vendas Colunas</h1>
+  <img src="https://github.com/weslei-silva87/Analise-Pevisao-vendas-farmaceutica/assets/163655532/ad495827-29a7-4b51-b536-b7271124dd31" alt="Correlação entre Vendas Colunas">
+</div>
 
 Ao explorar a correlação entre as vendas mensais de diferentes classes de medicamentos, encontramos algumas associações surpreendentes. Por exemplo, observamos uma correlação positiva entre as vendas de produtos anti-inflamatórios e antirreumáticos (M01AB e M01AE) e os medicamentos para doenças obstrutivas das vias aéreas (R03), sugerindo uma possível conexão entre condições inflamatórias e respiratórias.
 
